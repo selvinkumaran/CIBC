@@ -136,7 +136,7 @@ div > p {
   padding: 10px 0px 50px 20px;
 }
 footer {
-  height: 70vh;
+  height: 100vh;
   background-color: #383b3e;
   color: white;
 }
@@ -153,15 +153,14 @@ footer {
 .space2 {
   text-decoration: none;
   color: white;
-  padding: 10px;
 }
 .none {
-  padding: 3px;
-  margin-left: 20px;
+  padding-top: 0px;
+  padding-left: 35px;
 }
 .flex {
   display: inline-block;
 }
 .top {
-  padding-top: 20px;
+  padding-top: 30px;
 }
