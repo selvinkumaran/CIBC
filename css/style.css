@@ -167,6 +167,19 @@ footer {
 .top {
   padding-top: 30px;
 }
-.pointer{
-cursor: pointer;
+.pointer {
+  cursor: pointer;
+}
+.align{
+  width: 80px;
+  height: 80px;
+  padding: 40px;
+  margin-left: 20px;
+}
+.size{
+  margin-left: 90px;
+  text-align: center;
+  font-size: 30px;
+  font-family: Whitney-Book-Pro, Arial, Helvetica, sans-serif;
+
 }
