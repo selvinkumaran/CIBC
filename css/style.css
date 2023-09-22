@@ -20,6 +20,7 @@ ul li {
 .nav1 {
   display: inline;
   margin-left: 15px;
+  cursor: pointer;
 }
 .nav2 {
   display: inline;
@@ -48,6 +49,7 @@ input[type="text"] {
   color: rgb(68, 63, 63);
   font-size: medium;
   padding-left: 20px;
+  cursor: pointer;
 }
 .nav4 {
   display: inline;
@@ -115,6 +117,7 @@ div > p {
   padding: 10px 70px 10px 90px;
   font-size: 20px;
   color: rgb(145, 60, 60);
+  cursor: pointer;
 }
 .box5 {
   border: 1px solid gray;
@@ -163,4 +166,7 @@ footer {
 }
 .top {
   padding-top: 30px;
+}
+.pointer{
+cursor: pointer;
 }
